@@ -20,7 +20,7 @@ html{
 }
 
 #score{
-    background-color: #F1FF92;
+    background-color: black;
     color: #888E5F;
     padding: 11px;
     position: absolute;
@@ -87,7 +87,7 @@ html{
 .box{
     width: 85px;
     height: 85px;
-    background-color: white;
+    background-color: yellow;
     float: left;
     margin-right: 36px;
     border-radius: 3px;
